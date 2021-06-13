@@ -11,5 +11,6 @@ Execution time1 : 208640
 Execution time2 : 214711
 
 There is not much difference in execution time. 
+Therefore, you can use the method you want to use by looking at each characteristic.
 
 I used ubuntu 18.04.
